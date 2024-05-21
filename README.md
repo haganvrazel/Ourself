@@ -26,5 +26,23 @@ The server will be running on `http://localhost:4000`.
 4. In a seperate terminal, run automated tests with Jest:
   ```bash
   npm test
+```
+## API Usage
+Use free version of [Insomnia](https://insomnia.rest/) to test local functionality of API calls.
 
+# Queries
+- Get All Menu Items
+
+# Mutations
+- Add Menu Item
+- Update Menu Item
+- Delete Menu Item
+
+## Technologies Used
+- Apollo Server
+- Node.js
+- GraphQL
+- uuid
+- Jest
+- apollo-server-testing
 
